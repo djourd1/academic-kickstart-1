@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R on Water Economics</title>
+    <link>/categories/r/</link>
+    <description>Recent content in R on Water Economics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 10 Feb 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/r/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>R Tutorial</title>
+      <link>/tutorial/rtuto/</link>
+      <pubDate>Sun, 10 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tutorial/rtuto/</guid>
+      <description>This is the titleR Basicsfit = lm(dist ~ speed, data = cars)b = coef(summary(fit))plot(fit)The slope of the regression is 3.9324088.
+</description>
+    </item>
+    
+  </channel>
+</rss>
