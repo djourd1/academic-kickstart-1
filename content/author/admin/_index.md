@@ -1,45 +1,43 @@
 +++
 # Display name
-name = "Nelson Bighetti"
+name = "Damien Jourdain"
 
 # Is this the primary user of the site?
 superuser = true
 
 # Role/position
-role = "Professor of Artificial Intelligence"
+role = "Agricultural and Natural Resources Economist"
 
 # Organizations/Affiliations
-#   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Stanford University", url = "" } ]
+#   Separate multiple entries with a comma, using the form: `[ {name="CIRAD", url="www.cirad.fr"}, {name="CEEPA - UP", url="up.ac.za"} ]`.
+organizations = [ {name="CIRAD", url="http://www.cirad.fr"}, {name="CEEPA - UP", url=""} ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include distributed robotics, mobile computing and programmable matter."
+bio = "My research interests include Water Economics and Governance"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email = ""
+email = "damien.jourdain@cirad.fr"
 
 # List (academic) interests or hobbies
 interests = [
-  "Artificial Intelligence",
-  "Computational Linguistics",
-  "Information Retrieval"
+  "Technical Change in Agriculture",
+  "Water ecosystem services", 
+  "Choice Experiments", 
+  "Farm Modeling"
 ]
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "PhD in Agricultural Economics"
+  institution = "Montpellier I University"
+  year = 2004
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "DEA Agricultural Economics"
+  institution = "Montpellier I University"
+  year = 1995
 
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -49,22 +47,29 @@ interests = [
 [[social]]
   icon = "envelope"
   icon_pack = "fas"
-  link = "#contact"  # For a direct email link, use "mailto:test@example.org".
+  link = "mailto:damien.jourdain@cirad.fr"
 
 [[social]]
   icon = "twitter"
   icon_pack = "fab"
-  link = "https://twitter.com/GeorgeCushen"
+  link = "https://twitter.com/djourd1"
 
 [[social]]
   icon = "google-scholar"
   icon_pack = "ai"
-  link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+  link = "https://scholar.google.co.uk/citations?user=IK-ePZYAAAAJ"
+
+#[[social]]
+#  icon = "github"
+#  icon_pack = "fab"
+#  link = "https://github.com/djourd1"
 
 [[social]]
-  icon = "github"
-  icon_pack = "fab"
-  link = "https://github.com/gcushen"
+icon = "skype"
+icon_pack = "fab"
+link = "skype:djourd1?call"
+
+
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -75,6 +80,11 @@ interests = [
 
 +++
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am working with the UMR “Water Management, Uses, Actors” (G-EAU). I am mainly interested in economic instruments leading to a better governance of natural resources, especially water. I am currently secunded to the Centre for Environmental Economics and Policy in Africa (CEEPA), at the Faculty of Natural and Agricultural Sciences of the _University of Pretoria (UP)_.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+My research program focuses on:
+
+1. The economic value of hydro-ecosystems,
+2. The impacts of water allocation policies (efficiency, equity) and the potential implications for the food and energy sectors, and
+3. The economic and institutional instruments conducive to a reduction in water consumption by the different sectors, especially agriculture
+

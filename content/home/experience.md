@@ -7,7 +7,7 @@ title = "Experience"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 8
+weight = 7
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
@@ -19,27 +19,33 @@ date_format = "January 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Senior Research Fellow"
+  company = "University of Pretoria - CIRAD"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "Pretoria, South Africa"
+  date_start = "2017-09-01"
   date_end = ""
   description = """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Teaching Environmental Economics and Policy
+  * Developing Research Program on Water Economics and Governance
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Visiting Senior Researcher"
+  company = "Asian Insitute of Technology - CIRAD"
+  company_url = "http://ait.asia"
+  location = "Bangkok, Thailand"
+  date_start = "2010-06-01"
+  date_end = "2017-08-31"
+  description = """
+  Responsibilities include:
+  
+  * Teaching Natural Resource Economics (NRM Students)
+  * Teaching Water Economics (WEM Students)
+  * Developing Research Program on Water Economics and Governance
+  """
+
 
 +++

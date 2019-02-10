@@ -18,7 +18,7 @@ count = 10
 #   2 = Compact
 #   3 = Card
 #   4 = Citation
-view = 2
+view = 4
 
 # Filter by publication type.
 # -1: Any
@@ -34,4 +34,5 @@ publication_type = "-1"
 # Exclude publications that are shown in the Featured Publications widget?
 exclude_featured = false
 +++
+
 
